@@ -1,4 +1,5 @@
 import cv2
+
 import winsound
 cam = cv2.VideoCapture(0)
 while cam.isOpened():
@@ -21,4 +22,5 @@ while cam.isOpened():
         break
     cv2.imshow('Security Cam', frame1)
     
-    #CREATED BY SHIVANSH JAUHARI
+    #CREATED BY SHIVANSH JAUHAR
+    #real creater shivam chaudhary and shlok singh chor khaikaaaaaaaaaaaaaaaaaaaaa
